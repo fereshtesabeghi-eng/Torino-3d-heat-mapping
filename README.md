@@ -10,7 +10,7 @@ demographic data to ask a concrete urban-planning question:
 Built with [OSMnx](https://github.com/gboeing/osmnx), [GeoPandas](https://geopandas.org/),
 and visualized in [Kepler.gl](https://kepler.gl/).
 
-![City center 3D heat canyon view](images/01_city_center_3d.jpg)
+![City center 3D heat canyon view] ![](images/01_city_center_3d.jpg)
 
 ## Why this approach
 
@@ -24,9 +24,9 @@ intersection visible and arguable, not just inferred.
 
 | Dense canyon, heat trapped at street level | Open block, cooler microclimate |
 |---|---|
-| ![Urban canyon, heated](images/02_urban_canyon_heated.jpg) | ![More open, cooler](images/03_pedestrian_network_cooler.jpg) |
+| ![Urban canyon, heated] ![](images/02_urban_canyon_heated.jpg) | ![More open, cooler] ![](images/03_pedestrian_network_cooler.jpg) |
 
-![City-wide heat grid overview](images/04_heat_grid_overview.jpg)
+![City-wide heat grid overview] ![](images/04_heat_grid_overview.jpg)
 
 ## Pipeline overview
 
