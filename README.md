@@ -104,25 +104,6 @@ pip install -r requirements.txt
 Then run the three scripts in order (1 → 2 → 3). Each one reads the output
 of the previous step from `data/processed/`.
 
-## Repository structure
-
-```
-.
-├── scripts/
-│   ├── 01_fetch_osm_geometry.py
-│   ├── 02_generate_heat_grid.py
-│   └── 03_integrate_demographics.py
-├── data/
-│   ├── raw/            # place the ISTAT census layer here (not tracked)
-│   └── processed/      # script outputs land here (not tracked)
-├── images/              # example renders from the Kepler.gl scene
-├── docs/
-│   ├── kepler_setup.md
-│   ├── heat_data_sources.md
-│   └── demographic_data_sources.md
-├── requirements.txt
-└── .gitignore
-```
 
 `data/` and the large Kepler exports (`kepler_gl.html`, `kepler_config.json`,
 each 50MB+ once full-city data is embedded) are intentionally not committed.
