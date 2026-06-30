@@ -10,7 +10,7 @@ demographic data to ask a concrete urban-planning question:
 Built with [OSMnx](https://github.com/gboeing/osmnx), [GeoPandas](https://geopandas.org/),
 and visualized in [Kepler.gl](https://kepler.gl/).
 
-![City center 3D heat canyon view] ![](images/01_city_center_3d.jpg)
+![City center 3D heat canyon view](images/01_city_center_3d.jpg)
 
 ## Why this approach
 
