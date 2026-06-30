@@ -24,9 +24,9 @@ intersection visible and arguable, not just inferred.
 
 | Dense canyon, heat trapped at street level | Open block, cooler microclimate |
 |---|---|
-| ![Urban canyon, heated] ![](images/02_urban_canyon_heated.jpg) | ![More open, cooler] ![](images/03_pedestrian_network_cooler.jpg) |
+| ![Urban canyon, heated] (images/02_urban_canyon_heated.jpg) | ![More open, cooler] (images/03_pedestrian_network_cooler.jpg) |
 
-![City-wide heat grid overview] ![](images/04_heat_grid_overview.jpg)
+![City-wide heat grid overview] (images/04_heat_grid_overview.jpg)
 
 ## Pipeline overview
 
